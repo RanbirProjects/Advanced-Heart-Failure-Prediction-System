@@ -1,6 +1,9 @@
 # Heart Failure Prediction System
 
 A comprehensive web application for predicting heart failure risk using machine learning algorithms. Built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring a modern UI with animations.
+WELCOME PAGE
+![A8520900-74A0-4E7E-84BB-3D8CCB664777](https://github.com/user-attachments/assets/0e7b2049-9746-4447-a85e-4a4101341b91)
+
 
 ## Features
 
